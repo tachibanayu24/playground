@@ -1,0 +1,12 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "something small",
+  "main": "index.js",
+  "author": "tachibanayu24",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
